@@ -47,3 +47,5 @@ Passionate about clean architecture, fast deployments, and shipping things that 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srijanreddy/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-c8f060?style=flat-square&logo=vercel&logoColor=black)](https://srijanreddy.vercel.app)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:srijanreddy309@gmail.com)
+
+![My GitHub Stats](https://animated-profile-stats.vercel.app/api/card?username=srijanreddy&type=fire)
