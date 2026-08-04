@@ -8,7 +8,7 @@ Building high-availability, large-scale distributed systems for millions of user
 Passionate about clean architecture, fast deployments, and shipping things that matter.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-srijanreddy.vercel.app-c8f060?style=flat-square&logoColor=black)](https://srijanreddy.vercel.app)
-[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Yes-c8f060?style=flat-square)](https://srijanreddy.vercel.app/#contact)
+[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-NO-c8f060?style=flat-square)](https://srijanreddy.vercel.app/#contact)
 
 </div>
 
