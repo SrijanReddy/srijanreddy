@@ -2,7 +2,7 @@
 
 # Srijan Reddy
 
-**Software Development Engineer · Amazon · Seattle, WA**
+**Software Development Engineer · Seattle, WA**
 
 Building high-availability, large-scale distributed systems for millions of users.
 Passionate about clean architecture, fast deployments, and shipping things that matter.
